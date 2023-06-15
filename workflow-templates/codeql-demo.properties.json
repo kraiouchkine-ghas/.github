@@ -1,0 +1,7 @@
+{
+    "name": "CodeQL Analysis Wrapper",
+    "creator": "GitHub",
+    "description": "Demo of calling into a wrapper action for CodeQL.",
+    "iconName": "octicon mark-github",
+    "categories": ["Code Scanning", "C", "C++", "C#", "Go", "Java", "JavaScript", "TypeScript", "Python", "Ruby", "Kotlin", "Swift"]
+}
